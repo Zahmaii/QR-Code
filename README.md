@@ -1,7 +1,8 @@
 # QR-Code
 📖 Overview
 This is a QR Code Scanner that works with Computer Vision.
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------🔖 Features
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+🔖 Features
 Real-time QR Code Detection
 Displays the Decoded Data in the Streamlit app
 Visual feedback with bounding boxes around detected QR codes
