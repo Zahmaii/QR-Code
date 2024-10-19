@@ -1,7 +1,7 @@
 # QR-Code
 
 📖 Overview
-This is a QR Code Scanner that works with Computer Vision.
+- This is a QR Code Scanner that works with Computer Vision.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 🔖 Features
 - Real-time QR Code Detection
@@ -11,6 +11,10 @@ This is a QR Code Scanner that works with Computer Vision.
 🧰 Technologies Used
 - Python Programming
 - Streamlit for Web-Interface and Hosting
+
+📂 APP Explaination
+- app.py For QR Code Using Images (Import Images)
+- app2.0.py For QR Code Using Scanner (Computer Vision)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 📱 How to Implement it
 1. Clone the Repository (Link)
